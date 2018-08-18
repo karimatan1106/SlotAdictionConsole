@@ -1,0 +1,15 @@
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\SlotAddictionLogic.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\SlotAddictionLogic.pdb
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\AngleSharp.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\EPPlus.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\SlotAddictionCore.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\System.ValueTuple.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\SlotAddictionCore.pdb
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\AngleSharp.xml
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\EPPlus.xml
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\bin\Release\System.ValueTuple.xml
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\obj\Release\SlotAddictionLogic.csprojResolveAssemblyReference.cache
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\obj\Release\SlotAddictionLogic.csproj.CoreCompileInputs.cache
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\obj\Release\SlotAddictionLogic.csproj.CopyComplete
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\obj\Release\SlotAddictionLogic.dll
+C:\Users\y\source\repos\SlotAddictionConsole\SlotAddictionConsoleLogic\obj\Release\SlotAddictionLogic.pdb
